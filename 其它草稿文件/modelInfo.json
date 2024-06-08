@@ -1,0 +1,26 @@
+{
+	"id": "018ec1f7-66ad-7b64-b38c-11ff1ea7d00c",
+	"mode": "preview",
+	"name": "",
+	"seed": 1712651200,
+	"art_style": "realistic",
+	"texture_richness": "",
+	"prompt": "a monster mask",
+	"negative_prompt": "low quality, low resolution, low poly, ugly",
+	"status": "SUCCEEDED",
+	"created_at": 1712651201024,
+	"progress": 100,
+	"started_at": 1712651201904,
+	"finished_at": 1712651263663,
+	"task_error": null,
+	"model_urls": {
+		"glb": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/model.glb?Expires=4867776000&Signature=rGZ0HzE9NuKKgHjFciOQUIFO8mt8yax1rDFZ-SuJd6O0-7b8FK5oVQ~ULAOIcsC1nUg~lgWYXuX5AXNfIXco2OWF83WLUarfwbejixVxnEDbYrQLYJ1KSeOZ4Lq82QykC6cbiS3BVGMvglFW4NBWvM4y~hMlbpP8GVwD7m1JJ6YExzF-~KTsz-vnJY8XIUfAVVL35JeXkX5Zd5rTt~iuyKVJiO-7W2406PbE9iQGS3ifrRG9a0FId7H1F9T9XgKqPkJoWyJ0goe-e1ecssR5VvUguQVrcA35SftXa2zivzgzuNXy0T5YNT-qV4G0bUzNarzycTqfrszzMyN0gTHotQ__&Key-Pair-Id=KL5I0C8H7HX83",
+		"fbx": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/model.fbx?Expires=4867776000&Signature=YU6TC-AHlHI8WpQGVG8uIreLkK~6a5yT3oWJE~F3tqL5nWRZJRfhEpBGqtLLz-Ut9vb-DOmcsHFPDH2ObtBx667FqMBiLZpJWyjcDst1UmU6mQ0JeOx4VOTJUYEhOGoZD4d0TsoaqG8nplMrbmZa08YSyYcfjhYNDfTq05e8Tf3pTHjK~6BOzm5zPcMeGm2bBSrGdXntsjZ42NCDArnqajkv~L5s-EmlRwpg5QCTHZhR8ZsMa3~nTkCS4blX6bdnoRQvN3liPd~An7RymRvxQLp77atlbbhIucl7W7O2PhbquB4AaQJCuwXLFUHixH0QCQpyZHKzgGN-bkVbBu31iQ__&Key-Pair-Id=KL5I0C8H7HX83",
+		"usdz": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/model.usdz?Expires=4867776000&Signature=IpK4Qrxr~1k5lZGWonpTwrrDiV3wfCFkIoEL1amhf4Pp1YwS305r3FA5cDal4UkjHVMbh-g24Yh7E5iXlUi1eV5U35NqOghr56z2itEDD~4onn~VJC4MLidTpRXWiKtco6ayzUI~R2EYgPfoRSswiZjll3E-V5qDOUwPAZAEJZsXz8gqqTyFr3uZ9uRLNA8lLdAnANTf5ZNXNYZLY3YkXlurk9sp2d0modi0Ed1RCiXt36JizSgAl-6KJrhFhz6WdGZtAg6nN7477MYjBnNawA3ggG2YvZBo3p55yHc9dTHRDI8FD8cvmmGehDa0HwbHqhbihEDxH54kxz0NjS4v9g__&Key-Pair-Id=KL5I0C8H7HX83",
+		"obj": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/model.obj?Expires=4867776000&Signature=o0bs27UEk2S8Nt~0aKrkrj8zv-p~BpfKrW4ksDiY-sRbotJQRqRGaRhrt1zZd1JgLmpXb4jDd8NroScLRlCB6-s~0Wqm0wrvvIJHehfP03WkVviemmnLgY8cIO2QrgVx9nWCkXESlBZgErATJqjkNSi9G2F0p06cBsgste7j1lyj0Ju~MTyRJnFic1slYpFgZQoVJ4RV5DxC-dyk2v4k6ByBRFC2J2cvCqALaoJAoekEmp9Zqd823pODM-YSkA5-XJN08O7rbIqbUKitpOA2Z956DtGpNJ6w8c9WLxPEKL1k-2pgYRuT8-1gn0O~Y1aOLoBjA8L-t6FssTuD~KYqKQ__&Key-Pair-Id=KL5I0C8H7HX83",
+		"mtl": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/model.mtl?Expires=4867776000&Signature=XAWv~IqVjJ0OMXi1iK-IHdSL2oPIa6Ya3NNZaPOKt-8rdYMclaA1hRjwz0qdym1uyupNunqD6d~sQdUMfO1R5X530HTaDcc8-sMb15BYQKCeqjIlAZ-wL1zGR-FH5HfO8UqtFBCaMsUPnFXEUIttjyLbK7bYmbPhldYrsZSmpG7JU7a~SLZL0DWSYVuEpAqdLiMk-qVvxbx3dviaVsXEXWTf6yhhmtyMd6pRoBpN36Qnjuwte7eiTdUrvpFK93POSAc-r3mP7TGIqbM-dTqBprYfBriy0ViI9fBhPgypLY9S7McdcP0I9V30boWVwQJRoj5tg6ZHvkwjjZspb6zgOQ__&Key-Pair-Id=KL5I0C8H7HX83"
+	},
+	"thumbnail_url": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/preview.png?Expires=4867776000&Signature=GmLSjrXwNOwihJL-EJo8-zHlXDTkJGI370QeZdXN-fQFR30HhdlHKF25HL7LwwlrHlbwrhW9Oc8s52vmP1LrmHX7MATGJycw1ryJGsaPYHtObp3yHG~m3UdD1X6HX-RcntPYWlyu~s6RmE0hPPcLmXKRuh3QgFi-0KvgT5KGat~UzDUesQSWa1qc2Crju6251Ib4gAjozByQzjar5u2PuYcLcSj83PAjolY~QxKfcM9FsljI0CU5I4T2lrsuppWw-DG6G3Uf5wWQM~R7j5kUlbml2gmPBbuyYJExrHq8jKDrXp5bg4LSU3RSbOHXGXq00CXvVqw3Si4IOCEokUeWdw__&Key-Pair-Id=KL5I0C8H7HX83",
+	"video_url": "https://assets.meshy.ai/email%7C661274648342c8c30ca89e73/tasks/018ec1f7-66ad-7b64-b38c-11ff1ea7d00c/output/output.mp4?Expires=4867776000&Signature=Qkpo6Ptqm0A4yDKjbUguG~0IMk1Ed5z2kMiunhIFqE-~G1zspxotUnHfIQv64WjkQVXgW8Scjqd9BZHG5ySLx9copHXmm1Md7u22JfNBsL220livu6hTyFo7OJo0of-iXSz9dJVd0GSgX0F6RKZtkfS1Ps03YLuqIdZJtAXbU8HPo66hhuw63yFoG9eZd0hzhcdNtmeVxaFXr73LO-HXO4spXH8sqbl-95~n0tePWQ-uRs7V4JEoL~hGFt9YZSwRIl42vL3up1OKEN-MbAe7Osd2DZnlwm-r0-5TQj4j2ptH61SaJo5DQCA7nxOmqFdG98eBcFhewVtksQJegtHSBQ__&Key-Pair-Id=KL5I0C8H7HX83",
+	"texture_urls": []
+}
